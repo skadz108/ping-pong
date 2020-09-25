@@ -44,4 +44,4 @@ client.on('message', message => {
 	message.channel.send('what do you think you are? a twitch streamer?');
 }
 });
-client.login('PUT-YOUR-OWN-TOKEN-HERE');
+client.login('PUT-YOUR-OWN-TOKEN-HERE'); 
