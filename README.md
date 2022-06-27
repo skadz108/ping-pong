@@ -1,5 +1,6 @@
 # ping-pong
 **ping pong** is a small, simple discord bot with some little fun features. coded with [*discord.js*](https://discord.js.org/)
+invite the bot [*here*](https://found.ee/ping_pong)
 <br>
 <br>
 features include:
