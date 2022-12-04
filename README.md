@@ -11,8 +11,9 @@ no longer recieving updates, but you can self-host it and edit it to your liking
  3. Place your bot token into the `config.json`
  4. Open a Node.js command prompt
  5. Change into the directory where you extracted the ZIP to
- 6. Run `node .`
- 7. If you see `bomb activated`, the bot should be running
+ 6. Run `node deploy-commands.js`
+ 7. Run `node .`
+ 8. If you see `bomb activated`, the bot should be running
  
  ## support
 
