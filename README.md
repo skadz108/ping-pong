@@ -1,4 +1,4 @@
-# ping pong
+# ping pong (unmaintained, very bad, and very old)
 
 ping pong is a simple, small, and very basic Discord bot I coded in [discord.JS](https://discord.js.org) as a side project to try out bot development
 
@@ -17,5 +17,5 @@ no longer recieving updates, but you can self-host it and edit it to your liking
  
  ## support
 
-if you need help setting it up, or you have a question, email me at ![skadz.net/email.png](https://skadz.net/email.png)
+if you need help setting it up, or you have a question, email me at ![skadz.online/email.png](https://skadz.online/email.png)
 
